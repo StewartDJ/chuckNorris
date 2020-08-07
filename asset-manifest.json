@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/chuckNorris.git/static/css/main.896b73bd.chunk.css",
-    "main.js": "/chuckNorris.git/static/js/main.01e7fc47.chunk.js",
-    "main.js.map": "/chuckNorris.git/static/js/main.01e7fc47.chunk.js.map",
-    "runtime-main.js": "/chuckNorris.git/static/js/runtime-main.6577a2ff.js",
-    "runtime-main.js.map": "/chuckNorris.git/static/js/runtime-main.6577a2ff.js.map",
-    "static/js/2.426258ac.chunk.js": "/chuckNorris.git/static/js/2.426258ac.chunk.js",
-    "static/js/2.426258ac.chunk.js.map": "/chuckNorris.git/static/js/2.426258ac.chunk.js.map",
-    "index.html": "/chuckNorris.git/index.html",
-    "precache-manifest.a070a6e4189f6cdcffc65f08fa627282.js": "/chuckNorris.git/precache-manifest.a070a6e4189f6cdcffc65f08fa627282.js",
-    "service-worker.js": "/chuckNorris.git/service-worker.js",
-    "static/css/main.896b73bd.chunk.css.map": "/chuckNorris.git/static/css/main.896b73bd.chunk.css.map",
-    "static/js/2.426258ac.chunk.js.LICENSE.txt": "/chuckNorris.git/static/js/2.426258ac.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/chuckNorris.git/static/media/CN.3f9322b0.jpg"
+    "main.css": "/chuckNorris/static/css/main.189f8f9a.chunk.css",
+    "main.js": "/chuckNorris/static/js/main.1301829b.chunk.js",
+    "main.js.map": "/chuckNorris/static/js/main.1301829b.chunk.js.map",
+    "runtime-main.js": "/chuckNorris/static/js/runtime-main.c2756de0.js",
+    "runtime-main.js.map": "/chuckNorris/static/js/runtime-main.c2756de0.js.map",
+    "static/js/2.426258ac.chunk.js": "/chuckNorris/static/js/2.426258ac.chunk.js",
+    "static/js/2.426258ac.chunk.js.map": "/chuckNorris/static/js/2.426258ac.chunk.js.map",
+    "index.html": "/chuckNorris/index.html",
+    "precache-manifest.80665faa04ca371b4edb5e0d0ec1b865.js": "/chuckNorris/precache-manifest.80665faa04ca371b4edb5e0d0ec1b865.js",
+    "service-worker.js": "/chuckNorris/service-worker.js",
+    "static/css/main.189f8f9a.chunk.css.map": "/chuckNorris/static/css/main.189f8f9a.chunk.css.map",
+    "static/js/2.426258ac.chunk.js.LICENSE.txt": "/chuckNorris/static/js/2.426258ac.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/chuckNorris/static/media/CN.3f9322b0.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6577a2ff.js",
+    "static/js/runtime-main.c2756de0.js",
     "static/js/2.426258ac.chunk.js",
-    "static/css/main.896b73bd.chunk.css",
-    "static/js/main.01e7fc47.chunk.js"
+    "static/css/main.189f8f9a.chunk.css",
+    "static/js/main.1301829b.chunk.js"
   ]
 }
