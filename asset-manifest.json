@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/chuckNorris.git/static/css/main.896b73bd.chunk.css",
+    "main.js": "/chuckNorris.git/static/js/main.01e7fc47.chunk.js",
+    "main.js.map": "/chuckNorris.git/static/js/main.01e7fc47.chunk.js.map",
+    "runtime-main.js": "/chuckNorris.git/static/js/runtime-main.6577a2ff.js",
+    "runtime-main.js.map": "/chuckNorris.git/static/js/runtime-main.6577a2ff.js.map",
+    "static/js/2.426258ac.chunk.js": "/chuckNorris.git/static/js/2.426258ac.chunk.js",
+    "static/js/2.426258ac.chunk.js.map": "/chuckNorris.git/static/js/2.426258ac.chunk.js.map",
+    "index.html": "/chuckNorris.git/index.html",
+    "precache-manifest.a070a6e4189f6cdcffc65f08fa627282.js": "/chuckNorris.git/precache-manifest.a070a6e4189f6cdcffc65f08fa627282.js",
+    "service-worker.js": "/chuckNorris.git/service-worker.js",
+    "static/css/main.896b73bd.chunk.css.map": "/chuckNorris.git/static/css/main.896b73bd.chunk.css.map",
+    "static/js/2.426258ac.chunk.js.LICENSE.txt": "/chuckNorris.git/static/js/2.426258ac.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/chuckNorris.git/static/media/CN.3f9322b0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6577a2ff.js",
+    "static/js/2.426258ac.chunk.js",
+    "static/css/main.896b73bd.chunk.css",
+    "static/js/main.01e7fc47.chunk.js"
+  ]
+}
